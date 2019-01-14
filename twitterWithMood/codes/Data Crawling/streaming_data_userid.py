@@ -6,15 +6,12 @@ import matplotlib.pyplot as plt
 import pdb
 import time
 
-# consumer_key = "JH0I2tWncc75pdj6kXvWBSkr7"
-# consumer_secret = "mmo0gIY8pLZwR1iFoTCp89vpn2TVCWiHOmXOTSC5cnfMbFZkzN"
-# access_token = "865302386-PHx5eiQFjfqtLCT9Lq6VcnUydnGLZGPV8nbugwCH"
-# access_token_secret = "98oi4IaoV3D1eHyNIWR2MJ7hVSOYamuiOkmNyy357UD9R"
 
-consumer_key = "49NQ6HYkBA24O675jFXS48rYP"
-consumer_secret = "7wqTbGzYuz7WouRO8D47g0cJR2EsGWFAweqMV5j2sE3EkqIqS3"
-access_token = "253733131-nYtxdvkDewAqVrQqKTbHdgDFX7QKrK2BNsWX1mgt"
-access_token_secret = "QPsfV6IwpzyEhmXdncWrXzkBVHVrJ9hUR0XYEDfFCt1xZ"
+
+consumer_key = "***********************"
+consumer_secret = "*****************************"
+access_token = "*************************************"
+access_token_secret = "*********************************"
 
 
 def process_status(sta):
