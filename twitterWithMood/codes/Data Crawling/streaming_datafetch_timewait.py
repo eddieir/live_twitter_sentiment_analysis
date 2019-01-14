@@ -8,10 +8,10 @@ import csv
 
 
 
-consumer_key = "49NQ6HYkBA24O675jFXS48rYP"
-consumer_secret = "7wqTbGzYuz7WouRO8D47g0cJR2EsGWFAweqMV5j2sE3EkqIqS3"
-access_token = "253733131-nYtxdvkDewAqVrQqKTbHdgDFX7QKrK2BNsWX1mgt"
-access_token_secret = "QPsfV6IwpzyEhmXdncWrXzkBVHVrJ9hUR0XYEDfFCt1xZ"
+consumer_key = "***************************"
+consumer_secret = "******************************"
+access_token = "******************************"
+access_token_secret = "**********************************"
 
 def process_status(sta):
 	print (sta.user)
