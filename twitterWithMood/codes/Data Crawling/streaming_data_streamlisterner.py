@@ -7,15 +7,13 @@ import matplotlib.pyplot as plt
 import pdb
 import time
 
-consumer_key = "49NQ6HYkBA24O675jFXS48rYP"
-consumer_secret = "7wqTbGzYuz7WouRO8D47g0cJR2EsGWFAweqMV5j2sE3EkqIqS3"
-access_token = "253733131-nYtxdvkDewAqVrQqKTbHdgDFX7QKrK2BNsWX1mgt"
-access_token_secret = "QPsfV6IwpzyEhmXdncWrXzkBVHVrJ9hUR0XYEDfFCt1xZ"
 
-# consumer_key = "fgL6eMWPateArS7q7XLwHTgMk"
-# consumer_secret = "lbtJjlPuu5OrlnZYCrt1fOLMjk9iR8csyCnYJgGNan2EZlSK0Y"
-# access_token = "865302386-07FD3e3IGnD6fSkcwEoGTfPJj7ZSHJnIspuKDHGR"
-# access_token_secret = "m2U0sg9d1SkCq1foAblE6bdHi5v8RK6GcpnDygOrJJ0iq"
+#due to security issues customer keys and all related keys are hidden please use your key
+consumer_key = "******************"
+consumer_secret = "******************************"
+access_token = "*********************************"
+access_token_secret = "********************************"
+
 
 def process_status(sta):
 	print (sta.user)
